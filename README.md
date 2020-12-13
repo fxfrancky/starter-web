@@ -2,6 +2,7 @@
 
 This is a simple website project for showing how to use Git and GitHub together.Adding a line for rebasing example
 More changes for my future branch too
+Updating for Emergency after stashing
 ## Introduction
 
 Sample website with plenty of files for demos
