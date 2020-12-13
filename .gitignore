@@ -4,3 +4,4 @@
 *.log
 #Exclude every file inside a log/ directory
 /log
+*.orig
