@@ -16,3 +16,7 @@ This is a simple web project , deployment can be on any server
 
 ## How to contribute
 This is now how we contribute
+
+### Copyrights
+
+2014 Git.Training
